@@ -1,7 +1,5 @@
 # Hong Kong Tree Risk Monitoring — Concept Prototype
 
-EMIA 1901 (Introduction to Smart City Development) · Part 3 · group project prototype.
-
 A single-page interactive prototype of an integrated tree-risk platform for Tai Po District. It aligns three sources that never talk to each other — Highways Department location data (CSDI), the Tree Management Office register, and historical street-view snapshots — and adds a citizen reporting loop, so frontline officers can see one composite risk score per tree and act before typhoon season.
 
 ## What is in the prototype
