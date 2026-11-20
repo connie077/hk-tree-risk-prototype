@@ -1,5 +1,7 @@
 # Hong Kong Tree Risk Monitoring — Concept Prototype
 
+**Live site: https://connie077.github.io/hk-tree-risk-prototype/**
+
 A single-page interactive prototype of an integrated tree-risk platform for Tai Po District. It aligns three sources that never talk to each other — Highways Department location data (CSDI), the Tree Management Office register, and historical street-view snapshots — and adds a citizen reporting loop, so frontline officers can see one composite risk score per tree and act before typhoon season.
 
 ## What is in the prototype
@@ -15,7 +17,7 @@ Everything lives in one `index.html`: no build step, no dependencies, photos emb
 
 ## How to run
 
-Open `index.html` in a browser, or:
+Open the live link above, or open `index.html` in a browser locally, or:
 
 ```bash
 python3 -m http.server 8000   # then visit http://localhost:8000
